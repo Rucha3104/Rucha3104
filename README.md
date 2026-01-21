@@ -8,9 +8,10 @@
 🔹 Interested in data cleaning, EDA & visualization  
 🔹 Actively building real-world analytics projects  
 
-### 🛠️ Tools & Skills  
-Python • SQL • Excel • Power BI  
-Pandas • NumPy • Matplotlib • Seaborn  
+### 🛠️ Tools & Skills   
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/>
+  
 
 ### 📂 Projects  
 📌 Sales Data Analysis  
